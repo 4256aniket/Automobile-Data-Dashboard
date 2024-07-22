@@ -124,6 +124,13 @@ if __name__ == '__main__':
     app.run_server(debug=True)
 ```
 
+## Screenshots
+1. Yearly Statistic: Data visualizations for a given year
+![Main Interface](images/yearly_statistic.png)
+
+2. Recession Period Statistic: Data visualizations for recession perids
+![Main Interface](images/recession_statistic.png)
+
 ## Conclusion
 
 This dashboard provides an interactive way to explore historical automobile sales data. Users can select different types of statistics and view detailed visualizations to gain insights into sales trends and the impact of economic factors.
